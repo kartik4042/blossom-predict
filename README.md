@@ -9,10 +9,10 @@ RandomForestClassifier is used to classify the flower into its types.
 The app has been deployed over Heroku platform.
 
 You can access the app :
-https://peaceful-ravine-58624.herokuapp.com/
+https://blossom-predict.herokuapp.com/
 
 App view :
-![There must be network problem. So, unable to display image.](https://github.com/shreyasGarud/Blossom/blob/master/FrontView.png?raw=true)
+![There must be network problem. So, unable to display image.](https://github.com/shreyasGarud/Blossom/blob/master/AppView.png?raw=true)
 
 
 Side bar accepts the user inputs and displays the result in main view.
