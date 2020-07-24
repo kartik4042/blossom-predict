@@ -1,5 +1,5 @@
 # Blossom
-A iris flower prediction app !
+An iris flower prediction app !
 
 The web app accepts the parameters from the user and predicts flower type.
 It also displays the probabilities of different where flower can belong.
