@@ -10,3 +10,6 @@ The app has been deployed over Heroku platform.
 
 You can access the app :
 https://peaceful-ravine-58624.herokuapp.com/
+
+App view :
+![alt text](https://github.com/shreyasGarud/Blossom/blob/master/FrontView.png?raw=true)
