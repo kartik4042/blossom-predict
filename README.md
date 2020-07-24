@@ -12,4 +12,7 @@ You can access the app :
 https://peaceful-ravine-58624.herokuapp.com/
 
 App view :
-![alt text](https://github.com/shreyasGarud/Blossom/blob/master/FrontView.png?raw=true)
+![There must be network problem. So, unable to display image.](https://github.com/shreyasGarud/Blossom/blob/master/FrontView.png?raw=true)
+
+
+Side bar accepts the user inputs and displays the result in main view.
