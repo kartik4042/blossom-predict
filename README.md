@@ -11,4 +11,4 @@ You can access the application [here](https://blossom-predict.herokuapp.com/).
 ![There must be network problem. So, unable to display image.](https://github.com/shreyasGarud/Blossom/blob/master/AppView.png?raw=true)
 
 
-Side bar accepts the user inputs and displays the result in main view.
+_Side bar accepts the user inputs and displays the result in main view._
