@@ -2,7 +2,8 @@
 _An iris flower prediction app !_
 
 This project is called a hello world program of machine learning and it’s a classification problem where we will predict the flower class based on its petal length, petal width, sepal length, and sepal width.
-![Classification of Iris flower](C:\Git Projects\BlossomPredict\blossom-predict\iris.jpg)
+
+![Classification of Iris flower](./iris.jpg)
 
 _The web app accepts the parameters from the user and predicts flower type._
 
