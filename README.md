@@ -1,7 +1,11 @@
 # Blossom
 _An iris flower prediction app !_
 
-The web app accepts the parameters from the user and predicts flower type.
+This project is called a hello world program of machine learning and it’s a classification problem where we will predict the flower class based on its petal length, petal width, sepal length, and sepal width.
+
+
+_The web app accepts the parameters from the user and predicts flower type._
+
 It also displays the probabilities of different where flower can belong. The application has been developed using streamlit web framework. RandomForestClassifier is used to classify the flower into its types. The app has been deployed over Heroku platform.
 
 You can access the application [here](https://blossom-predict.herokuapp.com/).
