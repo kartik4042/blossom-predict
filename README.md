@@ -10,7 +10,7 @@ The app has been deployed over Heroku platform.
 
 You can access the appliction [here](https://blossom-predict.herokuapp.com/).
 
-**App view: **
+**App view:
 
 ![There must be network problem. So, unable to display image.](https://github.com/shreyasGarud/Blossom/blob/master/AppView.png?raw=true)
 
