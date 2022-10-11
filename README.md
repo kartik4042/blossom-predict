@@ -8,7 +8,7 @@ The app has been developed using streamlit web framework.
 RandomForestClassifier is used to classify the flower into its types.
 The app has been deployed over Heroku platform.
 
-You can access the appliction [here](https://blossom-predict.herokuapp.com/).
+You can access the application [here](https://blossom-predict.herokuapp.com/).
 
 **App view**
 
